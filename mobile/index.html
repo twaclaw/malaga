@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>M&#225;laga, Santander, Colombia Weather Conditions</title>
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+  <link rel="apple-touch-icon" href="icons/icon_iphone_x1.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="icons/icon_ipad_x2.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="icons/icon_iphone_x2.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="icons/icon_ipad_x2.png" />
+  <script src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+  <script src="custom.js"></script>
+  <script src="https://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+.radar {
+  width: 300px;
+}
+  </style>
+</head>
+<body>
+  <div data-role="page" data-theme="a">
+    <div data-role="header">
+      <h1>M&#225;laga, Santander, Colombia</h1>
+    </div>
+    <div data-role="content">
+      <ul data-role="listview" data-inset="true" data-divider-theme="c">
+	<li data-role="list-divider">Last update: 22/07/21 10:10:00</li>
+	<li><a href="barometer.html">Presión atmosférica: 1008,8 mbar (-0,1 mbar)</a></li>
+        <li><a href="humidity.html">Humedad: 56% [50%, 83%]</a></li>
+        <li><a href="rain.html">Precipitación: 0,00 cm/hr (0,00 cm)</a></li>
+        <li><a href="temp.html">Temperatura: 21,7&#176;C [13,5&#176;C, 23,0&#176;C]</a></li>
+        <li><a href="radiation.html">Radiación solar: 361 W/m&#178; [0 W/m&#178;, 947 W/m&#178;]</a></li>
+	<li><a href="wind.html">Viento: 3 km/h from E (90&#176;)</a></li>
+      </ul>
+    </div>
+    <div data-role="footer">
+      <h4>weewx v3.9.1</h4>
+    </div>
+  </div> 
+</body>
+

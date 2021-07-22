@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>M&#225;laga, Santander, Colombia, Weather Conditions</title>
+      <link></link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>jue, 22 jul 2021 10:10:00 -05</pubDate>
+
+      <lastBuildDate>jue, 22 jul 2021 10:10:00 -05</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 3.9.1</generator>
+      <ttl>5,000000 minutes</ttl>
+      
+      <item>
+         <title>Weather Conditions at 22/07/21 10:10:00</title>
+         <link></link>
+         <description>
+           Outside temperature: 21,7&#176;C; 
+           Barometer: 1008,8 mbar; 
+           Wind: 3 km/h from 90&#176;; 
+           Rain rate: 0,00 cm/hr; 
+           Inside temperature: 21,5&#176;C
+         </description>
+         <pubDate>jue, 22 jul 2021 10:10:00 -05</pubDate>
+	     <geo:lat>6.7039</geo:lat>
+    	 <geo:long>-72.7299</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                22/07/21 10:10:00<br/>
+             Outside Temperature: 21,7&#176;C<br/>
+             Inside Temperature:  21,5&#176;C<br/>
+             Wind Chill:          21,7&#176;C<br/>
+             Heat Index:          21,7&#176;C<br/>
+             Dewpoint:            12,6&#176;C<br/>
+             Humidity:            56%<br/>
+             Barometer:           1008,8 mbar<br/>
+             Wind:                3 km/h from 90&#176;<br/>
+             Rain Rate:           0,00 cm/hr<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of 22/07/21 10:10:00</title>
+         <link></link>
+         <description>
+	        Min outside temperature: 13,5&#176;C at 05:42:45;
+         	Max outside temperature: 23,0&#176;C at 09:36:38;
+	        Min inside temperature:  19,1&#176;C at 05:57:59;
+	        Max inside temperature:  21,5&#176;C at 09:59:00;
+	        Min barometer:           1007,7 mbar at 03:01:01;
+	        Max barometer:           1009,1 mbar at 07:39:01;
+            Max wind :               16 km/h from 81&#176; at 09:15:24;
+            Rain today:              0,00 cm
+         </description>
+         <pubDate>jue, 22 jul 2021 10:10:00 -05</pubDate>
+	     <geo:lat>6.7039</geo:lat>
+    	 <geo:long>-72.7299</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     22 jul 2021<br/>
+	         Min Outside Temperature: 13,5&#176;C at 05:42:45<br/>
+	         Max Outside Temperature: 23,0&#176;C at 09:36:38<br/>
+	         Min Inside Temperature:  19,1&#176;C at 05:57:59<br/>
+	         Max Inside Temperature:  21,5&#176;C at 09:59:00<br/>
+	         Min Barometer:           1007,7 mbar at 03:01:01<br/>
+	         Max Barometer:           1009,1 mbar at 07:39:01<br/>
+             Max Wind :               16 km/h from 81&#176; at 09:15:24<br/>
+             Rain today:              0,00 cm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of 22/07/21 10:10:00</title>
+         <link>/month.html</link>
+         <description>
+	        Min outside temperature: 10,7&#176;C at 14/07/21 06:02:19;
+         	Max outside temperature: 28,4&#176;C at 20/07/21 13:11:08;
+	        Min inside temperature:  17,8&#176;C at 14/07/21 06:27:59;
+	        Max inside temperature:  23,6&#176;C at 15/07/21 12:13:00;
+	        Min barometer:           1001,2 mbar at 08/07/21 15:05:00;
+	        Max barometer:           1012,3 mbar at 03/07/21 22:44:02;
+            Max wind :               29 km/h from 332&#176; at 13/07/21 08:58:55;
+            Rain total for month:    3,50 cm
+         </description>
+         <pubDate>jue, 22 jul 2021 10:10:00 -05</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   julio 2021<br/>
+	         Max Outside Temperature: 28,4&#176;C at 20/07/21 13:11:08<br/>
+	         Min Outside Temperature: 10,7&#176;C at 14/07/21 06:02:19<br/>
+	         Max Inside Temperature:  23,6&#176;C at 15/07/21 12:13:00<br/>
+	         Min Inside Temperature:  17,8&#176;C at 14/07/21 06:27:59<br/>
+	         Min Barometer:           1001,2 mbar at 08/07/21 15:05:00<br/>
+	         Max Barometer:           1012,3 mbar at 03/07/21 22:44:02<br/>
+             Max Wind :               29 km/h from 332&#176; at 13/07/21 08:58:55<br/>
+             Rain total for month:    3,50 cm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of 22/07/21 10:10:00</title>
+         <link>/year.html</link>
+         <description>
+	        Min outside temperature: 8,4&#176;C at 03/03/21 05:52:17;
+         	Max outside temperature: 29,7&#176;C at 04/02/21 14:24:52;
+	        Min inside temperature:  16,9&#176;C at 16/06/21 06:00:00;
+	        Max inside temperature:  26,9&#176;C at 01/02/21 13:09:00;
+	        Min barometer:           998,6 mbar at 28/02/21 15:14:02;
+	        Max barometer:           1013,2 mbar at 15/06/21 06:35:00;
+            Max wind :               39 km/h from 338&#176; at 15/06/21 13:35:00;
+            Rain total for year:     64,96 cm
+         </description>
+         <pubDate>jue, 22 jul 2021 10:10:00 -05</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2021<br/>
+	         Max Outside Temperature: 29,7&#176;C at 04/02/21 14:24:52<br/>
+	         Min Outside Temperature: 8,4&#176;C at 03/03/21 05:52:17<br/>
+	         Max Inside Temperature:  26,9&#176;C at 01/02/21 13:09:00<br/>
+	         Min Inside Temperature:  16,9&#176;C at 16/06/21 06:00:00<br/>
+	         Min Barometer:           998,6 mbar at 28/02/21 15:14:02<br/>
+	         Max Barometer:           1013,2 mbar at 15/06/21 06:35:00<br/>
+             Max Wind :               39 km/h from 338&#176; at 15/06/21 13:35:00<br/>
+             Rain total for year:     64,96 cm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
