@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <title>Wind in M&#225;laga, Santander, Colombia</title>
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+  <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <div data-role="page" data-add-back-btn="true" data-theme="a">
+    <div data-role="header">
+      <h1>Wind</h1>
+    </div>
+    <div data-role="content">
+      <h4>24h</h4>
+      <img src="daywind.png"/>
+      <img src="daywinddir.png"/>
+      <p>
+	max: 0 km/h at 00:20:00
+	max gust: 2 km/h at 00:05:00
+      </p>      
+      <h4>Last 7 days</h4>
+      <img src="weekwind.png" />
+      <img src="weekwinddir.png" />
+      <p>
+	max: 7 km/h at 15:30:00 (domingo)
+	max gust: 23 km/h at 15:28:38 (domingo)
+      </p>
+      <h4>Last 30 days</h4>
+      <img src="monthwind.png" />
+      <img src="monthwinddir.png" />
+      <p>
+	max: 7 km/h at 19/03/23 15:30:00
+	max gust: 23 km/h at 19/03/23 15:28:38
+      </p>
+    </div>
+    <div data-role="footer">
+      <h4>weewx v 4.5.1</h4>
+    </div>
+  </div>
+</body>

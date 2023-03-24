@@ -1,0 +1,46 @@
+                   MONTHLY CLIMATOLOGICAL SUMMARY for abr 2022
+
+
+NAME: Malaga, Santander, Colombia                  
+ELEV: 2200 meters    LAT: 06-42.23 N    LONG: 072-43.79 W
+
+
+                   TEMPERATURE (C), RAIN (cm), WIND SPEED (km/h)
+
+                                         HEAT   COOL         AVG
+      MEAN                               DEG    DEG          WIND                   DOM
+DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME    DIR
+---------------------------------------------------------------------------------------
+ 01
+ 02
+ 03
+ 04
+ 05
+ 06
+ 07
+ 08
+ 09
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+---------------------------------------------------------------------------------------
+       N/A    N/A       N/A    N/A       N/A    0,0    0,0    N/A    N/A    N/A       N/A    N/A
+    

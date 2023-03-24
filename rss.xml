@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>M&#225;laga, Santander, Colombia, Weather Conditions</title>
+      <link></link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>vie, 24 mar 2023 00:20:00 -05</pubDate>
+
+      <lastBuildDate>vie, 24 mar 2023 00:20:00 -05</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 4.5.1</generator>
+      <ttl>5,000000 minutes</ttl>
+      
+      <item>
+         <title>Weather Conditions at 24/03/23 00:20:00</title>
+         <link></link>
+         <description>
+           Outside temperature: 15,7&#176;C; 
+           Barometer: 1007,1 mbar; 
+           Wind: 0 km/h from    N/A; 
+           Rain rate: 0,00 cm/h; 
+           Inside temperature: 20,8&#176;C
+         </description>
+         <pubDate>vie, 24 mar 2023 00:20:00 -05</pubDate>
+	     <geo:lat>6.7039</geo:lat>
+    	 <geo:long>-72.7299</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                24/03/23 00:20:00<br/>
+             Outside Temperature: 15,7&#176;C<br/>
+             Inside Temperature:  20,8&#176;C<br/>
+             Wind Chill:          15,7&#176;C<br/>
+             Heat Index:          15,7&#176;C<br/>
+             Dewpoint:            13,9&#176;C<br/>
+             Humidity:            89%<br/>
+             Barometer:           1007,1 mbar<br/>
+             Wind:                0 km/h from    N/A<br/>
+             Rain Rate:           0,00 cm/h<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of 24/03/23 00:20:00</title>
+         <link></link>
+         <description>
+	        Min outside temperature: 15,7&#176;C at 00:15:23;
+         	Max outside temperature: 15,8&#176;C at 00:01:33;
+	        Min inside temperature:  20,8&#176;C at 00:00:05;
+	        Max inside temperature:  20,8&#176;C at 00:00:04;
+	        Min barometer:           1007,1 mbar at 00:18:01;
+	        Max barometer:           1007,5 mbar at 00:00:04;
+            Max wind :               2 km/h from 202&#176; at 00:05:00;
+            Rain today:              0,00 cm
+         </description>
+         <pubDate>vie, 24 mar 2023 00:20:00 -05</pubDate>
+	     <geo:lat>6.7039</geo:lat>
+    	 <geo:long>-72.7299</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     24 mar 2023<br/>
+	         Min Outside Temperature: 15,7&#176;C at 00:15:23<br/>
+	         Max Outside Temperature: 15,8&#176;C at 00:01:33<br/>
+	         Min Inside Temperature:  20,8&#176;C at 00:00:05<br/>
+	         Max Inside Temperature:  20,8&#176;C at 00:00:04<br/>
+	         Min Barometer:           1007,1 mbar at 00:18:01<br/>
+	         Max Barometer:           1007,5 mbar at 00:00:04<br/>
+             Max Wind :               2 km/h from 202&#176; at 00:05:00<br/>
+             Rain today:              0,00 cm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of 24/03/23 00:20:00</title>
+         <link></link>
+         <description>
+	        Min outside temperature: 10,6&#176;C at 22/03/23 04:53:37;
+         	Max outside temperature: 29,4&#176;C at 03/03/23 13:13:28;
+	        Min inside temperature:  17,4&#176;C at 15/03/23 06:26:59;
+	        Max inside temperature:  26,4&#176;C at 03/03/23 13:24:00;
+	        Min barometer:           998,2 mbar at 03/03/23 15:44:03;
+	        Max barometer:           1012,8 mbar at 13/03/23 09:30:01;
+            Max wind :               23 km/h from 321&#176; at 19/03/23 15:28:38;
+            Rain total for month:    11,32 cm
+         </description>
+         <pubDate>vie, 24 mar 2023 00:20:00 -05</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   marzo 2023<br/>
+	         Max Outside Temperature: 29,4&#176;C at 03/03/23 13:13:28<br/>
+	         Min Outside Temperature: 10,6&#176;C at 22/03/23 04:53:37<br/>
+	         Max Inside Temperature:  26,4&#176;C at 03/03/23 13:24:00<br/>
+	         Min Inside Temperature:  17,4&#176;C at 15/03/23 06:26:59<br/>
+	         Min Barometer:           998,2 mbar at 03/03/23 15:44:03<br/>
+	         Max Barometer:           1012,8 mbar at 13/03/23 09:30:01<br/>
+             Max Wind :               23 km/h from 321&#176; at 19/03/23 15:28:38<br/>
+             Rain total for month:    11,32 cm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of 24/03/23 00:20:00</title>
+         <link></link>
+         <description>
+	        Min outside temperature: 8,2&#176;C at 28/01/23 06:34:04;
+         	Max outside temperature: 29,4&#176;C at 28/02/23 14:31:53;
+	        Min inside temperature:  16,7&#176;C at 25/01/23 06:25:00;
+	        Max inside temperature:  26,4&#176;C at 03/03/23 13:24:00;
+	        Min barometer:           998,2 mbar at 03/03/23 15:44:03;
+	        Max barometer:           1013,4 mbar at 23/02/23 07:06:02;
+            Max wind :               32 km/h from 331&#176; at 25/01/23 19:53:25;
+            Rain total for year:     34,54 cm
+         </description>
+         <pubDate>vie, 24 mar 2023 00:20:00 -05</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2023<br/>
+	         Max Outside Temperature: 29,4&#176;C at 28/02/23 14:31:53<br/>
+	         Min Outside Temperature: 8,2&#176;C at 28/01/23 06:34:04<br/>
+	         Max Inside Temperature:  26,4&#176;C at 03/03/23 13:24:00<br/>
+	         Min Inside Temperature:  16,7&#176;C at 25/01/23 06:25:00<br/>
+	         Min Barometer:           998,2 mbar at 03/03/23 15:44:03<br/>
+	         Max Barometer:           1013,4 mbar at 23/02/23 07:06:02<br/>
+             Max Wind :               32 km/h from 331&#176; at 25/01/23 19:53:25<br/>
+             Rain total for year:     34,54 cm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
